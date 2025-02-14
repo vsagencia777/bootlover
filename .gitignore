@@ -1,0 +1,26 @@
+# Ignorar pastas de cache e configurações locais
+.cache/
+.local/
+.npm/
+.pm2/
+.ssh/
+.snap/
+
+# Ignorar pastas específicas do projeto que são temporárias ou específicas de ambiente
+bootlover-postgres/
+bootlover-backend/
+bootlover-frontend/
+
+# Ignorar arquivos de histórico e configurações de terminal
+.bash_history
+.bashrc
+
+# Ignorar arquivos de configuração do PM2 ou similares
+ecosystem.config.js
+
+# Ignorar arquivos de ambiente
+.env
+Test.js
+
+# Ignorar arquivos binários ou temporários
+*.png

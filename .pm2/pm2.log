@@ -1,0 +1,2151 @@
+2025-01-26T15:54:36: PM2 log: ===============================================================================
+2025-01-26T15:54:36: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-01-26T15:54:36: PM2 log: Time                 : Sun Jan 26 2025 15:54:36 GMT+0000 (Coordinated Universal Time)
+2025-01-26T15:54:36: PM2 log: PM2 version          : 5.4.3
+2025-01-26T15:54:36: PM2 log: Node.js version      : 18.20.6
+2025-01-26T15:54:36: PM2 log: Current arch         : x64
+2025-01-26T15:54:36: PM2 log: PM2 home             : /root/.pm2
+2025-01-26T15:54:36: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2025-01-26T15:54:36: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2025-01-26T15:54:36: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2025-01-26T15:54:36: PM2 log: Application log path : /root/.pm2/logs
+2025-01-26T15:54:36: PM2 log: Worker Interval      : 30000
+2025-01-26T15:54:36: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2025-01-26T15:54:36: PM2 log: Concurrent actions   : 2
+2025-01-26T15:54:36: PM2 log: SIGTERM timeout      : 1600
+2025-01-26T15:54:36: PM2 log: ===============================================================================
+2025-01-26T15:54:36: PM2 log: [Watch] Start watching bootlover-backend
+2025-01-26T15:54:36: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:54:36: PM2 log: [Watch] Start watching bootlover-frontend
+2025-01-26T15:54:36: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T15:54:36: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:54:36: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T15:54:36: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:54:36: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:54:36: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:54:36: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:54:36: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:54:36: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:54:37: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:54:37: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:54:37: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:54:37: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:54:37: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:54:37: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:54:38: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:54:38: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:54:38: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:54:38: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:54:38: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:54:38: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:54:39: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:54:39: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:54:39: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:54:39: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:54:39: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:54:39: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:54:39: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:54:39: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:54:39: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:54:40: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:54:40: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:54:40: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:54:40: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:54:40: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:54:40: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:54:41: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:54:41: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:54:41: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:54:41: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:54:41: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:54:41: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:54:42: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:54:42: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:54:42: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:54:42: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:54:42: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:54:42: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:54:42: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:54:42: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T15:56:46: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:56:46: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:56:46: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:56:46: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:56:46: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:56:47: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:56:47: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:56:47: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:56:47: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:56:47: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:56:47: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:56:48: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:56:48: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:56:48: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:56:48: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:56:48: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:56:48: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:56:48: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:56:48: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:56:48: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:56:49: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:56:49: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:56:49: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:56:50: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:56:50: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:56:50: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:56:50: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:56:50: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:56:50: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:56:51: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:56:51: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:56:51: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:56:51: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:56:51: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:56:51: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:56:51: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:56:51: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:56:52: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:56:52: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:56:52: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:56:52: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:56:52: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:56:53: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:56:53: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:56:53: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:56:53: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:56:53: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:56:53: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:56:53: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T15:58:17: PM2 log: Change detected on path bootlover-backend/package-lock.json for app bootlover-backend - restarting
+2025-01-26T15:58:17: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:58:17: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:58:18: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:58:18: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:58:18: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:58:18: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:58:18: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:58:18: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:58:18: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:58:18: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:58:18: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:58:19: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:58:19: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:58:19: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:58:19: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:58:19: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:58:19: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:58:20: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:58:20: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:58:20: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:58:20: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:58:20: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:58:20: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:58:21: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:58:21: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:58:21: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:58:21: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:58:21: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:58:21: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:58:22: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:58:22: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:58:22: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:58:22: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:58:22: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:58:22: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:58:23: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:58:23: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:58:23: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:58:23: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:58:23: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:58:23: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:58:24: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:58:24: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:58:24: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:58:24: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:58:24: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:58:24: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:58:25: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:58:25: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T15:59:18: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T15:59:18: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:18: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:18: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T15:59:18: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T15:59:18: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T15:59:18: PM2 log: pid=44952 msg=process killed
+2025-01-26T15:59:18: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:18: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:18: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T15:59:18: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T15:59:18: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T15:59:18: PM2 log: pid=44981 msg=process killed
+2025-01-26T15:59:18: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:18: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:19: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:19: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:19: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:19: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:19: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:19: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:20: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:20: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:20: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:20: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:20: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:20: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:21: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:21: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:21: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:21: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:21: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:21: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:22: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:22: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:22: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:22: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:22: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:22: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:22: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:22: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:22: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:23: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:23: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:23: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:23: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:23: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:23: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:24: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:24: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:24: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:24: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:24: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:24: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:25: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:25: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:25: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:25: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T15:59:25: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T15:59:25: PM2 log: pid=45168 msg=process killed
+2025-01-26T15:59:25: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:25: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:25: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:25: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:25: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:26: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:26: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:26: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:26: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:26: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:26: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:27: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:27: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:27: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:27: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:27: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:27: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:28: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:28: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:28: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:28: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:28: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:28: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:28: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:28: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:28: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:29: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:29: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:29: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:29: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:29: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:29: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:30: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:30: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:30: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:30: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:30: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:30: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:31: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:31: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:31: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:31: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:31: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T15:59:31: PM2 log: App [bootlover-backend:0] online
+2025-01-26T15:59:32: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T15:59:32: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:01:31: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:01:31: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:31: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:31: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:01:31: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:01:31: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:01:31: PM2 log: pid=45428 msg=process killed
+2025-01-26T16:01:31: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:31: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:31: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:01:31: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:01:31: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:01:31: PM2 log: pid=45456 msg=process killed
+2025-01-26T16:01:31: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:31: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:32: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:32: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:32: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:32: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:32: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:32: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:33: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:33: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:33: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:33: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:33: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:33: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:33: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:33: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:33: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:34: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:34: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:34: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:34: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:34: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:34: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:35: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:35: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:35: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:35: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:35: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:35: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:35: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:35: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:35: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:36: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:36: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:36: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:36: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:36: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:36: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:37: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:37: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:37: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:37: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:37: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:37: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:38: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:38: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:01:44: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:44: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:44: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:44: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:44: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:45: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:45: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:45: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:45: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:45: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:45: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:46: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:46: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:46: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:46: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:46: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:46: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:46: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:46: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:46: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:47: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:47: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:47: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:47: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:47: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:47: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:48: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:48: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:48: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:48: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:01:48: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:01:48: PM2 log: pid=45767 msg=process killed
+2025-01-26T16:01:48: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:48: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:49: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:49: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:49: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:49: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:49: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:49: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:49: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:49: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:49: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:50: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:50: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:50: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:50: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:50: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:50: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:51: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:51: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:51: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:51: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:51: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:51: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:52: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:52: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:52: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:52: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:52: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:52: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:52: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:52: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:52: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:53: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:53: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:53: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:53: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:53: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:53: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:54: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:54: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:54: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:54: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:54: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:01:54: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:01:55: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:01:55: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:03:17: PM2 log: Change detected on path bootlover-backend/package-lock.json for app bootlover-backend - restarting
+2025-01-26T16:03:17: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:03:17: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:03:17: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:03:17: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:03:17: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:03:18: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:03:18: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:03:18: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:03:18: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:03:18: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:03:18: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:03:19: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:03:19: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:03:19: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:03:19: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:03:19: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:03:19: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:03:19: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:03:19: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:03:19: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:03:20: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:03:20: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:03:20: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:03:20: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:03:20: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:03:20: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:03:21: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:03:21: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:03:21: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:03:21: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:03:21: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:03:21: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:03:22: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:03:22: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:03:22: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:03:22: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:03:22: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:03:22: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:03:22: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:03:22: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:03:22: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:03:23: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:03:23: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:03:23: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:03:23: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:03:23: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:03:23: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:03:24: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:03:24: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:04:02: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:04:02: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:02: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:03: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:04:03: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:04:03: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:04:03: PM2 log: pid=46273 msg=process killed
+2025-01-26T16:04:03: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:03: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:03: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:04:03: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:04:03: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:04:03: PM2 log: pid=46301 msg=process killed
+2025-01-26T16:04:03: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:03: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:03: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:03: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:03: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:04: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:04: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:04: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:04: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:04: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:04: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:05: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:05: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:05: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:05: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:05: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:05: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:05: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:05: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:05: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:06: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:06: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:06: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:06: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:06: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:06: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:07: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:07: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:07: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:07: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:04:07: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:04:07: PM2 log: pid=46426 msg=process killed
+2025-01-26T16:04:07: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:07: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:08: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:08: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:08: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:08: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:08: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:08: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:09: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:09: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:09: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:09: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:09: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:09: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:10: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:10: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:10: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:10: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:10: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:10: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:11: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:11: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:11: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:11: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:11: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:11: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:12: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:12: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:12: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:12: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:12: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:12: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:12: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:12: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:12: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:13: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:13: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:13: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:13: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:13: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:13: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:14: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:14: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:04:14: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:04:14: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:04:14: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:05:59: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:05:59: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:05:59: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:05:59: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:05:59: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:05:59: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:06:00: PM2 log: pid=46708 msg=process killed
+2025-01-26T16:06:00: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:00: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:00: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:06:00: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:06:00: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:06:00: PM2 log: pid=46737 msg=process killed
+2025-01-26T16:06:00: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:00: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:00: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:00: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:00: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:01: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:01: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:01: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:01: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:01: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:01: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:02: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:02: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:02: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:02: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:02: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:02: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:02: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:02: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:02: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:03: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:03: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:03: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:03: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:03: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:03: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:04: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:04: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:04: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:04: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:04: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:04: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:05: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:05: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:05: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:05: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:05: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:05: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:05: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:06:05: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:06:05: PM2 log: pid=46903 msg=process killed
+2025-01-26T16:06:05: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:05: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:06: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:06: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:06: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:06: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:06: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:06: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:07: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:07: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:07: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:07: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:07: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:07: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:08: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:08: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:08: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:08: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:08: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:08: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:09: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:09: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:09: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:09: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:09: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:09: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:09: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:09: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:10: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:10: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:10: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:10: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:10: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:10: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:10: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:11: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:11: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:11: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:11: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:11: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:11: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:12: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:12: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:12: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:12: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:12: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:06:23: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:23: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:23: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:23: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:23: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:24: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:24: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:24: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:24: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:24: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:24: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:25: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:25: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:25: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:25: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:25: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:25: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:26: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:26: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:26: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:26: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:26: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:26: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:26: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:26: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:26: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:27: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:27: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:27: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:27: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:27: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:27: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:28: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:28: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:28: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:28: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:28: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:28: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:29: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:29: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:29: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:29: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:29: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:29: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:30: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:30: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:06:30: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:06:30: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:06:30: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:07:58: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:07:58: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:07:58: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:07:58: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:07:58: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:07:58: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:07:58: PM2 log: pid=47350 msg=process killed
+2025-01-26T16:07:58: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:07:58: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:07:58: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:07:58: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:07:58: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:07:58: PM2 log: pid=47378 msg=process killed
+2025-01-26T16:07:58: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:07:58: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:07:59: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:07:59: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:07:59: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:07:59: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:07:59: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:07:59: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:00: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:00: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:00: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:00: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:00: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:00: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:01: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:01: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:01: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:01: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:01: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:01: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:02: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:02: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:02: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:02: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:02: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:02: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:03: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:03: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:03: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:03: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:03: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:03: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:04: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:04: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:04: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:04: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:04: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:04: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:05: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:05: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:05: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:05: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:05: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:05: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:05: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:05: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:08:06: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:06: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:07: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:07: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:07: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:07: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:07: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:07: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:08: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:08: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:08: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:08: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:08: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:08: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:08: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:08: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:08: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:09: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:09: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:09: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:09: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:09: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:09: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:10: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:10: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:10: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:10: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:10: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:10: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:11: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:11: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:11: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:11: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:11: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:11: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:12: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:12: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:12: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:12: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:12: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:12: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:12: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:12: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:12: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:13: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:13: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:08:13: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:08:13: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:08:13: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:10:42: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:10:42: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:42: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:42: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:10:42: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:10:42: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:10:42: PM2 log: pid=48018 msg=process killed
+2025-01-26T16:10:42: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:42: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:42: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:10:42: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:10:42: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:10:43: PM2 log: pid=48046 msg=process killed
+2025-01-26T16:10:43: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:43: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:43: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:10:43: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:43: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:44: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:10:44: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:44: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:44: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:10:44: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:44: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:44: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:10:44: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:44: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:45: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:10:45: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:45: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:45: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:10:45: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:45: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:46: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:10:46: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:46: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:46: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:10:46: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:46: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:46: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:10:46: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:46: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:47: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:10:47: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:47: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:47: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:10:47: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:47: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:48: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:10:48: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:48: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:48: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:10:48: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:48: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:49: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:10:49: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:10:49: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:10:49: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:10:49: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:11:07: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:11:07: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:11:07: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:11:07: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:11:07: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:11:07: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:11:07: PM2 log: pid=48236 msg=process killed
+2025-01-26T16:11:07: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:11:07: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:11:08: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:11:08: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:11:08: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:11:08: PM2 log: pid=48264 msg=process killed
+2025-01-26T16:11:08: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:11:08: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:11:12: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:11:12: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:11:12: PM2 log: pid=48282 msg=process killed
+2025-01-26T16:11:12: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:11:12: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:13:23: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:13:23: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:13:23: PM2 log: pid=48307 msg=process killed
+2025-01-26T16:13:23: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:13:23: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:15:44: PM2 log: Change detected on path package.json for app bootlover-frontend - restarting
+2025-01-26T16:15:44: PM2 log: Change detected on path bootlover-frontend/package.json for app bootlover-backend - restarting
+2025-01-26T16:15:44: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T16:15:44: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:15:44: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:15:44: PM2 log: pid=48371 msg=process killed
+2025-01-26T16:15:44: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:15:44: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:15:44: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T16:15:45: PM2 log: pid=43968 msg=process killed
+2025-01-26T16:15:45: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T16:15:45: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T16:15:45: PM2 log: Change detected on path package-lock.json for app bootlover-frontend - restarting
+2025-01-26T16:15:45: PM2 log: Change detected on path bootlover-frontend/package-lock.json for app bootlover-backend - restarting
+2025-01-26T16:15:45: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T16:15:45: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:15:45: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:15:45: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T16:15:45: PM2 log: pid=48464 msg=process killed
+2025-01-26T16:15:45: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:15:45: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:15:45: PM2 log: pid=48471 msg=process killed
+2025-01-26T16:15:45: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T16:15:45: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T16:16:02: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:16:02: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:16:02: PM2 log: pid=48499 msg=process killed
+2025-01-26T16:16:02: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:02: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:32: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:16:32: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:16:32: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:16:32: PM2 log: pid=48647 msg=process killed
+2025-01-26T16:16:32: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:32: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:33: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:16:33: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:16:33: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:16:33: PM2 log: pid=48688 msg=process killed
+2025-01-26T16:16:33: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:33: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:33: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:16:33: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:16:33: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:16:33: PM2 log: pid=48707 msg=process killed
+2025-01-26T16:16:33: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:33: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:33: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:16:33: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:16:33: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:34: PM2 log: pid=48725 msg=process killed
+2025-01-26T16:16:34: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:34: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:34: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:16:34: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:16:34: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:16:34: PM2 log: pid=48752 msg=process killed
+2025-01-26T16:16:34: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:34: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:34: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:16:34: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:16:34: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:16:34: PM2 log: pid=48771 msg=process killed
+2025-01-26T16:16:34: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:34: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:35: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:35: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:35: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:35: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:35: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:35: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:36: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:36: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:36: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:36: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:36: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:36: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:36: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:36: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:36: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:37: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:37: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:37: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:37: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:37: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:37: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:38: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:38: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:38: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:38: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:38: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:38: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:39: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:39: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:39: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:39: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:39: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:39: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:40: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:40: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:40: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:40: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:40: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:40: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:41: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:41: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:41: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:41: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:41: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:16:41: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:41: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:42: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:42: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:42: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:42: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:42: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:42: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:43: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:43: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:43: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:43: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:43: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:43: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:44: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:44: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:44: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:44: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:44: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:44: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:44: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:44: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:44: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:45: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:45: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:45: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:45: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:45: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:45: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:46: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:46: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:46: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:46: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:46: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:46: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:47: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:47: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:47: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:47: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:47: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:47: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:48: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:48: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:48: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:48: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:48: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:16:48: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:16:48: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:16:48: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:17:10: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:17:10: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:17:10: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:17:10: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:17:10: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:17:10: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:17:10: PM2 log: pid=49179 msg=process killed
+2025-01-26T16:17:10: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:17:10: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:17:10: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:17:10: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:17:10: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:17:10: PM2 log: pid=49207 msg=process killed
+2025-01-26T16:17:10: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:17:10: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:17:18: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:17:18: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:17:19: PM2 log: pid=49225 msg=process killed
+2025-01-26T16:17:19: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:17:19: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:35: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:20:35: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:20:35: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:20:35: PM2 log: pid=49254 msg=process killed
+2025-01-26T16:20:35: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:35: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:35: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:20:35: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:20:35: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:20:35: PM2 log: pid=49411 msg=process killed
+2025-01-26T16:20:35: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:35: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:36: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:20:36: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:20:36: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:20:36: PM2 log: pid=49430 msg=process killed
+2025-01-26T16:20:36: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:36: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:36: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:36: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:36: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:36: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:37: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:37: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:37: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:37: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:37: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:37: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:37: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:37: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:38: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:38: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:38: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:38: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:38: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:38: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:39: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:39: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:39: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:39: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:39: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:39: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:40: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:40: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:40: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:40: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:40: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:40: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:40: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:40: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:40: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:41: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:41: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:41: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:41: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:41: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:41: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:42: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:42: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:42: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:42: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:42: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:20:51: PM2 log: Change detected on path bootlover-backend/package-lock.json for app bootlover-backend - restarting
+2025-01-26T16:20:51: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:51: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:51: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:51: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:51: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:52: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:52: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:52: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:52: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:52: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:52: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:53: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:53: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:53: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:53: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:53: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:53: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:53: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:53: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:53: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:54: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:54: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:54: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:54: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:54: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:54: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:55: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:55: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:55: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:55: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:55: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:55: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:56: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:56: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:56: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:56: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:56: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:56: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:57: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:57: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:57: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:57: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:57: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:57: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:58: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:58: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:58: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:58: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:58: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:20:59: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:59: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:20:59: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:20:59: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:20:59: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:21:00: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:21:00: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:21:00: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:21:00: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:21:00: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:21:00: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:21:01: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:21:01: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:21:01: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:21:01: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:21:01: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:21:01: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:21:02: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:21:02: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:21:02: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:21:02: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:21:02: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:21:02: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:21:02: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:21:02: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:21:02: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:21:03: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:21:03: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:21:03: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:21:03: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:21:03: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:21:03: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:21:04: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:21:04: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:21:04: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:21:04: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:21:04: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:21:04: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:21:05: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:21:05: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:21:05: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:21:05: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:21:05: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:21:05: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:21:05: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:21:05: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:21:05: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:21:06: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:21:06: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:22:30: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:22:30: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:22:31: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:22:31: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:22:31: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:22:31: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:22:31: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:22:31: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:22:32: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:22:32: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:22:32: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:22:32: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:22:32: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:22:32: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:22:33: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:22:33: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:22:33: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:22:33: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:22:33: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:22:33: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:22:34: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:22:34: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:22:34: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:22:34: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:22:34: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:22:34: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:22:35: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:22:35: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:22:35: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:22:35: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:22:35: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:22:35: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:22:35: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:22:35: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:22:35: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:22:36: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:22:36: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:22:36: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:22:36: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:22:36: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:22:36: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:22:37: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:22:37: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:22:37: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:22:37: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:22:37: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:22:37: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:22:38: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:22:38: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:23:59: PM2 log: Change detected on path bootlover-backend/package-lock.json for app bootlover-backend - restarting
+2025-01-26T16:23:59: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:23:59: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:23:59: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:23:59: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:23:59: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:00: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:00: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:00: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:00: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:00: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:00: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:01: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:01: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:01: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:01: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:01: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:01: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:01: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:01: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:01: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:02: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:02: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:02: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:02: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:02: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:02: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:03: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:03: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:03: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:03: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:24:03: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:24:03: PM2 log: pid=50374 msg=process killed
+2025-01-26T16:24:03: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:03: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:04: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:04: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:04: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:04: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:04: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:04: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:05: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:05: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:05: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:05: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:05: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:05: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:06: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:06: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:06: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:06: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:06: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:06: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:07: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:07: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:07: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:07: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:07: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:07: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:08: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:08: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:08: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:08: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:08: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:08: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:08: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:08: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:08: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:09: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:09: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:09: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:09: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:09: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:09: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:10: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:10: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:24:10: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:24:10: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:24:10: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:26:33: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:26:33: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:26:33: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:26:33: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:26:33: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:26:34: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:26:34: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:26:34: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:26:34: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:26:34: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:26:34: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:26:35: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:26:35: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:26:35: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:26:35: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:26:35: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:26:35: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:26:36: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:26:36: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:26:36: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:26:36: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:26:36: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:26:36: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:26:37: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:26:37: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:26:37: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:26:37: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:26:37: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:26:37: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:26:38: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:26:38: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:26:38: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:26:38: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:26:38: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:26:38: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:26:39: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:26:39: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:26:39: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:26:39: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:26:39: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:26:39: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:26:40: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:26:40: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:26:40: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:26:40: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:26:40: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:26:40: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:26:41: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:26:41: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:27:22: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:27:22: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:22: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:22: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:27:22: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:27:22: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:27:22: PM2 log: pid=50844 msg=process killed
+2025-01-26T16:27:22: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:22: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:23: PM2 log: Change detected on path bootlover-backend/app.js for app bootlover-backend - restarting
+2025-01-26T16:27:23: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:27:23: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:27:23: PM2 log: pid=50872 msg=process killed
+2025-01-26T16:27:23: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:23: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:23: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:27:23: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:23: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:24: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:27:24: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:24: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:24: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:27:24: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:24: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:25: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:27:25: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:25: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:25: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:27:25: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:25: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:25: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:27:25: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:25: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:26: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:27:26: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:26: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:26: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:27:26: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:26: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:27: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:27:27: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:27: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:27: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:27:27: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:27: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:28: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:27:28: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:28: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:28: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:27:28: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:28: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:28: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:27:28: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:28: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:29: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:27:29: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:27:29: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:27:29: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T16:27:29: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T16:27:47: PM2 log: [Watch] Stop watching bootlover-backend
+2025-01-26T16:27:48: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:27:48: PM2 error: app=bootlover-backend id=0 does not have a pid
+2025-01-26T16:27:48: PM2 log: [Watch] Stop watching bootlover-frontend
+2025-01-26T16:27:48: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T16:27:48: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T16:27:48: PM2 log: pid=48505 msg=process killed
+2025-01-26T16:29:07: PM2 log: App [app:2] starting in -fork mode-
+2025-01-26T16:29:07: PM2 log: App [app:2] online
+2025-01-26T16:30:01: PM2 log: Stopping app:app id:2
+2025-01-26T16:30:01: PM2 log: App [app:2] exited with code [0] via signal [SIGINT]
+2025-01-26T16:30:01: PM2 log: pid=51145 msg=process killed
+2025-01-26T16:30:12: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:30:12: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:31:36: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:31:36: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:31:36: PM2 log: pid=51183 msg=process killed
+2025-01-26T16:31:36: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:31:37: PM2 log: App [bootlover-backend:0] online
+2025-01-26T16:32:59: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T16:32:59: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T16:32:59: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T16:32:59: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T16:32:59: PM2 log: pid=51277 msg=process killed
+2025-01-26T16:32:59: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T16:32:59: PM2 log: App [bootlover-backend:0] online
+2025-01-26T19:00:00: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T19:00:00: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T19:00:00: PM2 log: pid=51346 msg=process killed
+2025-01-26T19:00:00: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T19:00:00: PM2 log: App [bootlover-backend:0] online
+2025-01-26T19:00:01: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T19:00:01: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T19:00:01: PM2 log: pid=51339 msg=process killed
+2025-01-26T19:00:01: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T19:00:01: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T19:04:29: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T19:04:29: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T19:04:29: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T19:04:29: PM2 log: pid=54284 msg=process killed
+2025-01-26T19:04:29: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T19:04:29: PM2 log: App [bootlover-backend:0] online
+2025-01-26T19:04:29: PM2 log: App [app:2] starting in -fork mode-
+2025-01-26T19:04:29: PM2 log: App [app:2] online
+2025-01-26T19:04:29: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T19:04:29: PM2 log: pid=54326 msg=process killed
+2025-01-26T19:04:29: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T19:04:29: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T19:04:46: PM2 log: Stopping app:app id:2
+2025-01-26T19:04:46: PM2 log: App [app:2] exited with code [0] via signal [SIGINT]
+2025-01-26T19:04:46: PM2 log: pid=54636 msg=process killed
+2025-01-26T19:14:04: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T19:14:04: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T19:14:04: PM2 log: pid=54653 msg=process killed
+2025-01-26T19:14:04: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T19:14:04: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T19:14:10: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T19:14:10: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T19:14:10: PM2 log: pid=54632 msg=process killed
+2025-01-26T19:14:10: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T19:14:10: PM2 log: App [bootlover-backend:0] online
+2025-01-26T19:17:54: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T19:17:54: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T19:17:54: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T19:17:54: PM2 log: pid=55306 msg=process killed
+2025-01-26T19:17:54: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T19:17:54: PM2 log: App [bootlover-backend:0] online
+2025-01-26T19:17:54: PM2 log: App [app:2] starting in -fork mode-
+2025-01-26T19:17:54: PM2 log: App [app:2] online
+2025-01-26T19:17:54: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T19:17:54: PM2 log: pid=55171 msg=process killed
+2025-01-26T19:17:54: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T19:17:54: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T19:17:59: PM2 log: Stopping app:app id:2
+2025-01-26T19:18:00: PM2 log: App [app:2] exited with code [0] via signal [SIGINT]
+2025-01-26T19:18:00: PM2 log: pid=55486 msg=process killed
+2025-01-26T19:21:34: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T19:21:34: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T19:21:34: PM2 log: pid=55498 msg=process killed
+2025-01-26T19:21:34: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T19:21:34: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T19:23:28: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T19:23:28: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T19:23:28: PM2 log: pid=55692 msg=process killed
+2025-01-26T19:23:28: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T19:23:28: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T19:27:27: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T19:27:27: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T19:27:27: PM2 log: pid=55479 msg=process killed
+2025-01-26T19:27:27: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T19:27:27: PM2 log: App [bootlover-backend:0] online
+2025-01-26T19:29:54: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T19:29:54: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T19:29:54: PM2 log: pid=55872 msg=process killed
+2025-01-26T19:29:54: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T19:29:54: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T19:31:16: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T19:31:16: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T19:31:16: PM2 log: pid=56188 msg=process killed
+2025-01-26T19:31:16: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T19:31:16: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T19:33:32: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T19:33:32: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T19:33:32: PM2 log: pid=56351 msg=process killed
+2025-01-26T19:33:32: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T19:33:32: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T19:34:47: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T19:34:47: PM2 log: pid=56520 msg=failed to kill - retrying in 100ms
+2025-01-26T19:34:47: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T19:34:47: PM2 log: pid=56520 msg=process killed
+2025-01-26T19:34:47: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T19:34:47: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T19:35:58: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T19:35:58: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T19:35:58: PM2 log: pid=56687 msg=process killed
+2025-01-26T19:35:58: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T19:35:58: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T19:38:41: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T19:38:41: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T19:38:41: PM2 log: pid=56850 msg=process killed
+2025-01-26T19:38:41: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T19:38:41: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T19:41:36: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T19:41:36: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T19:41:36: PM2 log: pid=57033 msg=process killed
+2025-01-26T19:41:36: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T19:41:36: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T19:45:36: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T19:45:36: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T19:45:36: PM2 log: pid=57218 msg=process killed
+2025-01-26T19:45:36: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T19:45:36: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T20:04:57: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T20:04:57: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T20:04:57: PM2 log: pid=57408 msg=process killed
+2025-01-26T20:04:57: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T20:04:57: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T20:07:54: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T20:07:54: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T20:07:54: PM2 log: pid=57890 msg=process killed
+2025-01-26T20:07:54: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T20:07:54: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T20:15:55: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T20:15:55: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T20:15:55: PM2 log: pid=56122 msg=process killed
+2025-01-26T20:15:55: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:15:55: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:15:55: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T20:15:55: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T20:15:55: PM2 log: pid=58158 msg=process killed
+2025-01-26T20:15:55: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T20:15:55: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T20:24:07: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T20:24:07: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T20:24:08: PM2 log: pid=58679 msg=process killed
+2025-01-26T20:24:08: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:24:08: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:24:08: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T20:24:08: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T20:24:08: PM2 log: pid=58715 msg=process killed
+2025-01-26T20:24:08: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T20:24:08: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T20:33:33: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T20:33:33: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T20:33:33: PM2 log: pid=59247 msg=process killed
+2025-01-26T20:33:33: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:33:33: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:33:33: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T20:33:33: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T20:33:33: PM2 log: pid=59278 msg=process killed
+2025-01-26T20:33:33: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T20:33:33: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T20:36:21: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T20:36:21: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T20:36:21: PM2 log: pid=59840 msg=process killed
+2025-01-26T20:36:21: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:36:21: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:36:21: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T20:36:21: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T20:36:21: PM2 log: pid=59874 msg=process killed
+2025-01-26T20:36:21: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T20:36:21: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T20:43:24: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T20:43:24: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T20:43:24: PM2 log: pid=60179 msg=process killed
+2025-01-26T20:43:24: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:43:24: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:43:24: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T20:43:24: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T20:43:24: PM2 log: pid=60213 msg=process killed
+2025-01-26T20:43:24: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T20:43:24: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T20:43:25: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T20:43:25: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:43:25: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:43:25: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T20:43:25: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:43:25: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:43:25: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T20:43:25: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:43:25: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:43:26: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T20:43:26: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:43:26: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:43:26: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T20:43:26: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:43:26: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:43:26: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T20:43:26: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:43:26: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:43:27: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T20:43:27: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:43:27: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:43:27: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T20:43:27: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:43:27: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:43:27: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T20:43:27: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:43:27: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:43:28: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T20:43:28: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:43:28: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:43:28: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T20:43:28: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:43:28: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:43:29: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T20:43:29: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:43:29: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:43:29: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T20:43:29: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:43:29: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:43:29: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T20:43:29: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:43:29: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:43:30: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T20:43:30: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:43:30: PM2 log: App [bootlover-backend:0] online
+2025-01-26T20:43:30: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-26T20:43:30: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-26T20:44:53: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T20:44:53: PM2 log: App [bootlover-backend:0] online
+2025-01-26T21:29:40: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T21:29:40: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T21:29:40: PM2 log: pid=61388 msg=process killed
+2025-01-26T21:29:40: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T21:29:40: PM2 log: App [bootlover-backend:0] online
+2025-01-26T21:29:40: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T21:29:40: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T21:29:40: PM2 log: pid=61018 msg=process killed
+2025-01-26T21:29:40: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T21:29:40: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T21:32:40: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T21:32:40: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T21:32:40: PM2 log: pid=62933 msg=process killed
+2025-01-26T21:32:40: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T21:32:40: PM2 log: App [bootlover-backend:0] online
+2025-01-26T21:32:40: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T21:32:40: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T21:32:40: PM2 log: pid=62969 msg=process killed
+2025-01-26T21:32:40: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T21:32:40: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T21:42:50: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T21:42:50: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T21:42:50: PM2 log: pid=63226 msg=process killed
+2025-01-26T21:42:50: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T21:42:50: PM2 log: App [bootlover-backend:0] online
+2025-01-26T21:42:50: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T21:42:50: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T21:42:50: PM2 log: pid=63260 msg=process killed
+2025-01-26T21:42:50: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T21:42:50: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T21:44:50: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T21:44:50: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T21:44:51: PM2 log: pid=63774 msg=process killed
+2025-01-26T21:44:51: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T21:44:51: PM2 log: App [bootlover-backend:0] online
+2025-01-26T21:44:51: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T21:44:51: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T21:44:51: PM2 log: pid=63806 msg=process killed
+2025-01-26T21:44:51: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T21:44:51: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T21:46:31: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T21:46:31: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T21:46:32: PM2 log: pid=64047 msg=process killed
+2025-01-26T21:46:32: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T21:46:32: PM2 log: App [bootlover-backend:0] online
+2025-01-26T21:46:32: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T21:46:32: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T21:46:32: PM2 log: pid=64081 msg=process killed
+2025-01-26T21:46:32: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T21:46:32: PM2 log: App [bootlover-frontend:1] online
+2025-01-26T21:49:34: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-26T21:49:34: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-26T21:49:34: PM2 log: pid=64295 msg=process killed
+2025-01-26T21:49:34: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-26T21:49:34: PM2 log: App [bootlover-backend:0] online
+2025-01-26T21:49:34: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-26T21:49:35: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-26T21:49:35: PM2 log: pid=64327 msg=process killed
+2025-01-26T21:49:35: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-26T21:49:35: PM2 log: App [bootlover-frontend:1] online
+2025-01-27T00:09:52: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-27T00:09:52: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-27T00:09:52: PM2 log: pid=64587 msg=process killed
+2025-01-27T00:09:52: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T00:09:52: PM2 log: App [bootlover-backend:0] online
+2025-01-27T00:09:52: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-27T00:09:52: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-27T00:09:52: PM2 log: pid=64623 msg=process killed
+2025-01-27T00:09:52: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-27T00:09:52: PM2 log: App [bootlover-frontend:1] online
+2025-01-27T00:18:17: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-27T00:18:18: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-27T00:18:18: PM2 log: pid=67619 msg=process killed
+2025-01-27T00:18:18: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T00:18:18: PM2 log: App [bootlover-backend:0] online
+2025-01-27T00:18:18: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-27T00:18:18: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-27T00:18:18: PM2 log: pid=67651 msg=process killed
+2025-01-27T00:18:18: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-27T00:18:18: PM2 log: App [bootlover-frontend:1] online
+2025-01-27T00:51:23: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-27T00:51:23: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-27T00:51:23: PM2 log: pid=67947 msg=process killed
+2025-01-27T00:51:23: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T00:51:23: PM2 log: App [bootlover-backend:0] online
+2025-01-27T00:51:23: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-27T00:51:24: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-27T00:51:24: PM2 log: pid=67981 msg=process killed
+2025-01-27T00:51:24: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-27T00:51:24: PM2 log: App [bootlover-frontend:1] online
+2025-01-27T00:53:08: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-27T00:53:08: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-27T00:53:09: PM2 log: pid=68874 msg=process killed
+2025-01-27T00:53:09: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T00:53:09: PM2 log: App [bootlover-backend:0] online
+2025-01-27T00:53:09: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-27T00:53:09: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-27T00:53:09: PM2 log: pid=68911 msg=process killed
+2025-01-27T00:53:09: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-27T00:53:09: PM2 log: App [bootlover-frontend:1] online
+2025-01-27T01:16:56: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-27T01:16:56: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-27T01:16:56: PM2 log: pid=69120 msg=process killed
+2025-01-27T01:16:56: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T01:16:56: PM2 log: App [bootlover-backend:0] online
+2025-01-27T01:16:56: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-27T01:16:57: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-27T01:16:57: PM2 log: pid=69156 msg=process killed
+2025-01-27T01:16:57: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T01:16:57: PM2 log: App [bootlover-frontend:1] online
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] online
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] online
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] online
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] online
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] online
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T01:16:57: PM2 log: App [bootlover-backend:0] online
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] online
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] online
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] online
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] online
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] online
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T01:16:58: PM2 log: App [bootlover-backend:0] online
+2025-01-27T01:16:59: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-27T01:16:59: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T01:16:59: PM2 log: App [bootlover-backend:0] online
+2025-01-27T01:16:59: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-27T01:16:59: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T01:16:59: PM2 log: App [bootlover-backend:0] online
+2025-01-27T01:16:59: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-27T01:16:59: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T01:16:59: PM2 log: App [bootlover-backend:0] online
+2025-01-27T01:16:59: PM2 log: App [bootlover-backend:0] exited with code [1] via signal [SIGINT]
+2025-01-27T01:16:59: PM2 log: Script /root/bootlover-backend/app.js had too many unstable restarts (16). Stopped. "errored"
+2025-01-27T02:03:45: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T02:03:45: PM2 log: App [bootlover-backend:0] online
+2025-01-27T02:03:45: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-27T02:03:45: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-27T02:03:45: PM2 log: pid=70190 msg=process killed
+2025-01-27T02:03:45: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-27T02:03:45: PM2 log: App [bootlover-frontend:1] online
+2025-01-27T03:04:56: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-27T03:04:56: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-27T03:04:56: PM2 log: pid=71368 msg=process killed
+2025-01-27T03:04:56: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T03:04:56: PM2 log: App [bootlover-backend:0] online
+2025-01-27T03:04:56: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-27T03:04:56: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-27T03:04:56: PM2 log: pid=71401 msg=process killed
+2025-01-27T03:04:56: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-27T03:04:56: PM2 log: App [bootlover-frontend:1] online
+2025-01-27T03:09:06: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-27T03:09:06: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-27T03:09:06: PM2 log: pid=72152 msg=process killed
+2025-01-27T03:09:06: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T03:09:07: PM2 log: App [bootlover-backend:0] online
+2025-01-27T03:09:07: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-27T03:09:07: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-27T03:09:07: PM2 log: pid=72182 msg=process killed
+2025-01-27T03:09:07: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-27T03:09:07: PM2 log: App [bootlover-frontend:1] online
+2025-01-27T03:19:08: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-27T03:19:08: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-27T03:19:08: PM2 log: pid=72344 msg=process killed
+2025-01-27T03:19:08: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T03:19:08: PM2 log: App [bootlover-backend:0] online
+2025-01-27T03:19:08: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-27T03:19:08: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-27T03:19:08: PM2 log: pid=72375 msg=process killed
+2025-01-27T03:19:08: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-27T03:19:08: PM2 log: App [bootlover-frontend:1] online
+2025-01-27T03:31:10: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-27T03:31:10: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-27T03:31:10: PM2 log: pid=72947 msg=process killed
+2025-01-27T03:31:10: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T03:31:10: PM2 log: App [bootlover-backend:0] online
+2025-01-27T03:31:10: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-27T03:31:10: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-27T03:31:10: PM2 log: pid=72980 msg=process killed
+2025-01-27T03:31:10: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-27T03:31:10: PM2 log: App [bootlover-frontend:1] online
+2025-01-27T03:37:05: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-27T03:37:05: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-27T03:37:05: PM2 log: pid=73540 msg=process killed
+2025-01-27T03:37:05: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T03:37:05: PM2 log: App [bootlover-backend:0] online
+2025-01-27T03:37:05: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-27T03:37:05: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-27T03:37:05: PM2 log: pid=73574 msg=process killed
+2025-01-27T03:37:05: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-27T03:37:05: PM2 log: App [bootlover-frontend:1] online
+2025-01-27T04:09:47: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-27T04:09:47: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-27T04:09:47: PM2 log: pid=74043 msg=process killed
+2025-01-27T04:09:47: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T04:09:47: PM2 log: App [bootlover-backend:0] online
+2025-01-27T04:09:47: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-27T04:09:47: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-27T04:09:47: PM2 log: pid=74078 msg=process killed
+2025-01-27T04:09:47: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-27T04:09:47: PM2 log: App [bootlover-frontend:1] online
+2025-01-27T13:37:09: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-27T13:37:09: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-27T13:37:09: PM2 log: pid=75637 msg=process killed
+2025-01-27T13:37:09: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T13:37:09: PM2 log: App [bootlover-backend:0] online
+2025-01-27T13:37:09: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-27T13:37:09: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-27T13:37:09: PM2 log: pid=75669 msg=process killed
+2025-01-27T13:37:09: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-27T13:37:09: PM2 log: App [bootlover-frontend:1] online
+2025-01-27T15:03:40: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-27T15:03:40: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-27T15:03:41: PM2 log: pid=84282 msg=process killed
+2025-01-27T15:03:41: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T15:03:41: PM2 log: App [bootlover-backend:0] online
+2025-01-27T15:03:41: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-27T15:03:41: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-27T15:03:41: PM2 log: pid=84312 msg=process killed
+2025-01-27T15:03:41: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-27T15:03:41: PM2 log: App [bootlover-frontend:1] online
+2025-01-27T15:24:17: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-27T15:24:17: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-27T15:24:17: PM2 log: pid=85172 msg=process killed
+2025-01-27T15:24:17: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T15:24:17: PM2 log: App [bootlover-backend:0] online
+2025-01-27T15:24:17: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-27T15:24:18: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-27T15:24:18: PM2 log: pid=85202 msg=process killed
+2025-01-27T15:24:18: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-27T15:24:18: PM2 log: App [bootlover-frontend:1] online
+2025-01-27T22:38:48: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-27T22:38:48: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-27T22:38:48: PM2 log: pid=85596 msg=process killed
+2025-01-27T22:38:48: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-27T22:38:48: PM2 log: App [bootlover-backend:0] online
+2025-01-27T22:38:48: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-27T22:38:49: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-27T22:38:49: PM2 log: pid=85631 msg=process killed
+2025-01-27T22:38:49: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-27T22:38:49: PM2 log: App [bootlover-frontend:1] online
+2025-01-28T03:11:44: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-28T03:11:44: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-28T03:11:44: PM2 log: pid=105942 msg=process killed
+2025-01-28T03:11:44: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-28T03:11:44: PM2 log: App [bootlover-backend:0] online
+2025-01-28T03:11:44: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-28T03:11:44: PM2 log: pid=105975 msg=failed to kill - retrying in 100ms
+2025-01-28T03:11:44: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-28T03:11:44: PM2 log: pid=105975 msg=process killed
+2025-01-28T03:11:44: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-28T03:11:44: PM2 log: App [bootlover-frontend:1] online
+2025-01-28T04:11:16: PM2 log: Stopping app:bootlover-backend id:0
+2025-01-28T04:11:16: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-01-28T04:11:16: PM2 log: pid=117576 msg=process killed
+2025-01-28T04:11:16: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-01-28T04:11:16: PM2 log: App [bootlover-backend:0] online
+2025-01-28T04:11:16: PM2 log: Stopping app:bootlover-frontend id:1
+2025-01-28T04:11:16: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-01-28T04:11:16: PM2 log: pid=117610 msg=process killed
+2025-01-28T04:11:16: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-01-28T04:11:16: PM2 log: App [bootlover-frontend:1] online
+2025-02-01T16:33:22: PM2 log: Stopping app:bootlover-backend id:0
+2025-02-01T16:33:22: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-02-01T16:33:23: PM2 log: pid=119038 msg=process killed
+2025-02-01T16:33:23: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-02-01T16:33:23: PM2 log: App [bootlover-backend:0] online
+2025-02-01T16:33:23: PM2 log: Stopping app:bootlover-frontend id:1
+2025-02-01T16:33:23: PM2 log: pid=119070 msg=failed to kill - retrying in 100ms
+2025-02-01T16:33:23: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-02-01T16:33:23: PM2 log: pid=119070 msg=process killed
+2025-02-01T16:33:23: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-02-01T16:33:23: PM2 log: App [bootlover-frontend:1] online
+2025-02-01T16:34:47: PM2 log: Stopping app:bootlover-frontend id:1
+2025-02-01T16:34:47: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-02-01T16:34:47: PM2 log: pid=228518 msg=process killed
+2025-02-01T16:34:47: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-02-01T16:34:47: PM2 log: App [bootlover-frontend:1] online
+2025-02-01T16:35:40: PM2 log: Stopping app:bootlover-frontend id:1
+2025-02-01T16:35:40: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-02-01T16:35:40: PM2 log: pid=228709 msg=process killed
+2025-02-01T16:35:40: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-02-01T16:35:40: PM2 log: App [bootlover-frontend:1] online
+2025-02-01T16:37:09: PM2 log: Stopping app:bootlover-backend id:0
+2025-02-01T16:37:09: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-02-01T16:37:09: PM2 log: pid=228484 msg=process killed
+2025-02-01T16:37:09: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-02-01T16:37:09: PM2 log: App [bootlover-backend:0] online
+2025-02-01T16:37:09: PM2 log: Stopping app:bootlover-frontend id:1
+2025-02-01T16:37:09: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-02-01T16:37:09: PM2 log: pid=228904 msg=process killed
+2025-02-01T16:37:09: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-02-01T16:37:09: PM2 log: App [bootlover-frontend:1] online
+2025-02-01T16:49:20: PM2 log: Stopping app:bootlover-backend id:0
+2025-02-01T16:49:20: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-02-01T16:49:20: PM2 log: pid=229156 msg=process killed
+2025-02-01T16:49:20: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-02-01T16:49:20: PM2 log: App [bootlover-backend:0] online
+2025-02-01T16:49:20: PM2 log: Stopping app:bootlover-frontend id:1
+2025-02-01T16:49:20: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-02-01T16:49:20: PM2 log: pid=229190 msg=process killed
+2025-02-01T16:49:20: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-02-01T16:49:20: PM2 log: App [bootlover-frontend:1] online
+2025-02-01T17:05:39: PM2 log: Stopping app:bootlover-backend id:0
+2025-02-01T17:05:39: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-02-01T17:05:39: PM2 log: pid=229390 msg=process killed
+2025-02-01T17:05:39: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-02-01T17:05:39: PM2 log: App [bootlover-backend:0] online
+2025-02-01T17:05:39: PM2 log: Stopping app:bootlover-frontend id:1
+2025-02-01T17:05:39: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-02-01T17:05:39: PM2 log: pid=229422 msg=process killed
+2025-02-01T17:05:39: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-02-01T17:05:39: PM2 log: App [bootlover-frontend:1] online
+2025-02-01T17:08:48: PM2 log: Stopping app:bootlover-backend id:0
+2025-02-01T17:08:48: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-02-01T17:08:48: PM2 log: pid=229837 msg=process killed
+2025-02-01T17:08:48: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-02-01T17:08:48: PM2 log: App [bootlover-backend:0] online
+2025-02-01T17:08:48: PM2 log: Stopping app:bootlover-frontend id:1
+2025-02-01T17:08:49: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-02-01T17:08:49: PM2 log: pid=229868 msg=process killed
+2025-02-01T17:08:49: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-02-01T17:08:49: PM2 log: App [bootlover-frontend:1] online
+2025-02-01T17:10:00: PM2 log: Stopping app:bootlover-backend id:0
+2025-02-01T17:10:00: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-02-01T17:10:00: PM2 log: pid=230068 msg=process killed
+2025-02-01T17:10:00: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-02-01T17:10:00: PM2 log: App [bootlover-backend:0] online
+2025-02-01T17:10:00: PM2 log: Stopping app:bootlover-frontend id:1
+2025-02-01T17:10:00: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-02-01T17:10:00: PM2 log: pid=230100 msg=process killed
+2025-02-01T17:10:00: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-02-01T17:10:00: PM2 log: App [bootlover-frontend:1] online
+2025-02-07T00:52:33: PM2 log: Stopping app:bootlover-backend id:0
+2025-02-07T00:52:33: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-02-07T00:52:33: PM2 log: pid=230361 msg=process killed
+2025-02-07T00:52:33: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-02-07T00:52:33: PM2 log: App [bootlover-backend:0] online
+2025-02-07T00:52:33: PM2 log: Stopping app:bootlover-frontend id:1
+2025-02-07T00:52:33: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-02-07T00:52:33: PM2 log: pid=230392 msg=process killed
+2025-02-07T00:52:33: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-02-07T00:52:33: PM2 log: App [bootlover-frontend:1] online
+2025-02-07T00:52:51: PM2 log: Stopping app:bootlover-backend id:0
+2025-02-07T00:52:51: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-02-07T00:52:51: PM2 log: pid=330564 msg=process killed
+2025-02-07T00:52:51: PM2 log: Stopping app:bootlover-frontend id:1
+2025-02-07T00:52:51: PM2 log: pid=330594 msg=failed to kill - retrying in 100ms
+2025-02-07T00:52:51: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-02-07T00:52:51: PM2 log: pid=330594 msg=process killed
+2025-02-07T00:53:04: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-02-07T00:53:04: PM2 log: App [bootlover-backend:0] online
+2025-02-07T00:53:04: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-02-07T00:53:04: PM2 log: App [bootlover-frontend:1] online
+2025-02-07T00:55:13: PM2 log: Stopping app:bootlover-backend id:0
+2025-02-07T00:55:13: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-02-07T00:55:13: PM2 log: pid=330995 msg=process killed
+2025-02-07T00:55:13: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-02-07T00:55:13: PM2 log: App [bootlover-backend:0] online
+2025-02-07T00:55:13: PM2 log: Stopping app:bootlover-frontend id:1
+2025-02-07T00:55:13: PM2 log: pid=330996 msg=failed to kill - retrying in 100ms
+2025-02-07T00:55:13: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-02-07T00:55:13: PM2 log: pid=330996 msg=process killed
+2025-02-07T00:55:13: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-02-07T00:55:13: PM2 log: App [bootlover-frontend:1] online
+2025-02-07T01:00:45: PM2 log: Stopping app:bootlover-backend id:0
+2025-02-07T01:00:45: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-02-07T01:00:45: PM2 log: pid=331245 msg=process killed
+2025-02-07T01:00:45: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-02-07T01:00:45: PM2 log: App [bootlover-backend:0] online
+2025-02-07T01:00:45: PM2 log: Stopping app:bootlover-frontend id:1
+2025-02-07T01:00:46: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-02-07T01:00:46: PM2 log: pid=331280 msg=process killed
+2025-02-07T01:00:46: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-02-07T01:00:46: PM2 log: App [bootlover-frontend:1] online
+2025-02-07T21:18:45: PM2 log: Stopping app:bootlover-backend id:0
+2025-02-07T21:18:45: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-02-07T21:18:45: PM2 log: pid=331520 msg=process killed
+2025-02-07T21:18:45: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-02-07T21:18:45: PM2 log: App [bootlover-backend:0] online
+2025-02-07T21:18:45: PM2 log: Stopping app:bootlover-frontend id:1
+2025-02-07T21:18:45: PM2 log: pid=331545 msg=failed to kill - retrying in 100ms
+2025-02-07T21:18:45: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-02-07T21:18:45: PM2 log: pid=331545 msg=process killed
+2025-02-07T21:18:45: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-02-07T21:18:45: PM2 log: App [bootlover-frontend:1] online
+2025-02-09T16:39:35: PM2 log: Stopping app:bootlover-backend id:0
+2025-02-09T16:39:35: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-02-09T16:39:35: PM2 log: pid=343496 msg=process killed
+2025-02-09T16:39:35: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-02-09T16:39:35: PM2 log: App [bootlover-backend:0] online
+2025-02-09T16:39:35: PM2 log: Stopping app:bootlover-frontend id:1
+2025-02-09T16:39:36: PM2 log: pid=343528 msg=failed to kill - retrying in 100ms
+2025-02-09T16:39:36: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-02-09T16:39:36: PM2 log: pid=343528 msg=process killed
+2025-02-09T16:39:36: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-02-09T16:39:36: PM2 log: App [bootlover-frontend:1] online
+2025-02-09T23:58:02: PM2 log: Stopping app:bootlover-backend id:0
+2025-02-09T23:58:02: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-02-09T23:58:02: PM2 log: pid=388354 msg=process killed
+2025-02-09T23:58:02: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-02-09T23:58:02: PM2 log: App [bootlover-backend:0] online
+2025-02-09T23:58:02: PM2 log: Stopping app:bootlover-frontend id:1
+2025-02-09T23:58:02: PM2 log: pid=388389 msg=failed to kill - retrying in 100ms
+2025-02-09T23:58:02: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-02-09T23:58:02: PM2 log: pid=388389 msg=process killed
+2025-02-09T23:58:02: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-02-09T23:58:02: PM2 log: App [bootlover-frontend:1] online
+2025-02-10T01:13:17: PM2 log: Stopping app:bootlover-backend id:0
+2025-02-10T01:13:17: PM2 log: App [bootlover-backend:0] exited with code [0] via signal [SIGINT]
+2025-02-10T01:13:17: PM2 log: pid=392974 msg=process killed
+2025-02-10T01:13:17: PM2 log: App [bootlover-backend:0] starting in -fork mode-
+2025-02-10T01:13:17: PM2 log: App [bootlover-backend:0] online
+2025-02-10T01:13:17: PM2 log: Stopping app:bootlover-frontend id:1
+2025-02-10T01:13:17: PM2 log: pid=393005 msg=failed to kill - retrying in 100ms
+2025-02-10T01:13:17: PM2 log: App [bootlover-frontend:1] exited with code [0] via signal [SIGINT]
+2025-02-10T01:13:17: PM2 log: pid=393005 msg=process killed
+2025-02-10T01:13:17: PM2 log: App [bootlover-frontend:1] starting in -fork mode-
+2025-02-10T01:13:17: PM2 log: App [bootlover-frontend:1] online
