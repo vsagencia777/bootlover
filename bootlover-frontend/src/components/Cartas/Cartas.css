@@ -1,0 +1,136 @@
+/* Estilo geral do jogo */
+.container-cartas {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  margin-top: 30px;
+  position: relative; /* Garante que o contêiner seja o ponto de referência */
+}
+
+/* Layout das cartas */
+.deck {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  justify-items: center;
+  padding: 20px;
+  position: relative; /* Garante que o z-index funcione nas cartas */
+}
+
+/* Cartas */
+.carta-container {
+  width: 150px;  /* Ajuste o tamanho da carta aqui */
+  height: 220px; /* Ajuste a altura da carta aqui */
+  position: relative;
+  cursor: pointer;
+  transition: transform 0.5s ease-in-out; /* Transição suave */
+}
+
+/* Imagem da carta */
+.carta-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transition: opacity 0.5s ease, transform 0.5s ease;  /* Transição de opacidade e zoom */
+  backface-visibility: hidden; /* Esconde o verso da carta */
+}
+
+/* Efeito de zoom ao escolher a carta */
+.carta-container:hover {
+  transform: scale(1.05); /* Efeito de aumento ao passar o mouse */
+}
+
+/* Efeito de zoom para centralizar a carta selecionada */
+.carta-selecionada {
+  transform: scale(2) !important; /* Aumenta a carta */
+  z-index: 20; /* Garante que a carta selecionada fique na frente das outras */
+  position: fixed; /* Usa fixed para colocar no centro da tela */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(2); /* Centraliza a carta */
+  opacity: 1; /* Garante que a carta não desapareça até o tempo correto */
+  transition: transform 2s ease-in-out, opacity 2s ease-in-out; /* Animação de zoom */
+  width: 300px; /* Ajuste para garantir o zoom não ficar cortado */
+  height: 440px; /* Ajuste para garantir o zoom não ficar cortado */
+}
+
+
+/* Classe para manter a carta no estado normal após o efeito de zoom */
+.carta-normal {
+  opacity: 0;
+  transition: opacity 1s ease; /* Garante que a carta desapareça lentamente depois do tempo */
+}
+
+/* Menu de escolhas centralizado */
+.menu-escolhas {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Centraliza no meio */
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.menu-escolhas.exibir-menu {
+  display: flex;
+  opacity: 1;
+}
+
+.escolhas {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.carta-escolhida {
+  width: 150px; /* Ajuste o tamanho da carta no menu aqui */
+  height: 220px; /* Ajuste a altura da carta no menu aqui */
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.botao-reiniciar {
+  padding: 12px 24px;
+  background-color: #ff6347;
+  border: none;
+  border-radius: 50px;
+  font-size: 1.2rem;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.botao-reiniciar:hover {
+  background-color: #e55347;
+}
+
+/* Responsividade para dispositivos menores */
+@media (max-width: 768px) {
+  .deck {
+    grid-template-columns: repeat(2, 1fr); /* Colocar as cartas em duas colunas */
+  }
+
+  .carta-container {
+    width: 120px;
+    height: 180px;
+  }
+
+  .menu-escolhas {
+    padding: 15px;
+  }
+
+  .carta-escolhida {
+    width: 120px;
+    height: 180px;
+  }
+}

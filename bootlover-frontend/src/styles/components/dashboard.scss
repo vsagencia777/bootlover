@@ -1,0 +1,23 @@
+.dashboard {
+    display: flex;
+  }
+  
+  .dashboard .content {
+    margin-left: 270px;
+    padding: 20px;
+    flex-grow: 1;
+  }
+  
+  .dashboard .profile-actions button {
+    background-color: #5bc0de;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
+  .dashboard .profile-actions button:hover {
+    background-color: #31b0d5;
+  }
+  

@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.sidebar {
+  width: 200px;
+  height: 100vh;
+  background: linear-gradient(135deg, #1c1c1f, #2b2b2f);
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+  z-index: 1000;
+  transition: all 0.3s ease;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+.sidebar li {
+  margin-bottom: 15px;
+}
+
+.sidebar a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding: 10px 15px;
+  color: #00ffa2;
+  font-size: 18px;
+  border-radius: 8px;
+  transition: background 0.3s, transform 0.3s;
+}
+
+.sidebar a:hover {
+  background: #00ffa2;
+  color: #000;
+  transform: scale(1.05);
+}
+
+.sidebar a i {
+  margin-right: 10px;
+}
+
+.sidebar .logo {
+  color: #00ffa2;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.sidebar .user-info {
+  margin-top: auto;
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+.sidebar .user-info a {
+  display: block;
+  padding: 10px;
+  background-color: #00ffa2;
+  color: #000;
+  text-align: center;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 10px;
+  transition: background 0.3s;
+}
+
+.sidebar .user-info a:hover {
+  background-color: #00cc80;
+}
+
+/* Ajuste do conteúdo ao lado da sidebar */
+.content {
+  margin-left: 220px;
+  padding: 20px;
+  transition: all 0.3s ease;
+  max-width: calc(100% - 220px);
+}
+
+.roleta-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 100px); /* Centralização vertical */
+}
+
+/* Responsividade para telas menores */
+@media (max-width: 1024px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+
+  .content {
+    margin-left: 0;
+    max-width: 100%;
+  }
+
+  .sidebar ul {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .sidebar a {
+    font-size: 14px;
+    padding: 8px;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .sidebar a i {
+    margin: 0 0 5px 0;
+    font-size: 20px;
+  }
+
+  .sidebar .user-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

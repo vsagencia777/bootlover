@@ -1,0 +1,54 @@
+.perfil-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #2b2b2f;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    color: #ffffff;
+  }
+  
+  h2, h3 {
+    color: #00ffa2;
+    text-align: center;
+  }
+  
+  .info-section, .senha-section {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  input[readonly] {
+    background: #3c3c44;
+    color: #bbb;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background: #00ffa2;
+    color: #000;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  button:hover {
+    background: #00cc80;
+  }
+  

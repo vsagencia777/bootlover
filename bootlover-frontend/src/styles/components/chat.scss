@@ -1,0 +1,152 @@
+/* Container principal */
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 100px); /* Subtraindo 100px para garantir que o chat não sobreponha o menu fixo */
+  width: 100%; /* No mobile, ocupa 100% da largura */
+  max-width: 600px; /* No desktop, a largura máxima será 600px */
+  margin: 0 auto; /* Centraliza o chat */
+  background-color: #1c1c1c;
+  border-radius: 12px;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Ajustes no título */
+.chat-title {
+  text-align: center;
+  color: #00ff9d;
+  padding: 15px;
+  font-size: 1.8rem;
+  font-weight: bold;
+  border-bottom: 1px solid #444444;
+}
+
+/* Caixa de mensagens (conteúdo do chat) */
+.chat-box {
+  flex: 1; /* Preenche o espaço disponível */
+  overflow-y: auto; /* Permite rolar quando necessário */
+  padding: 10px 15px;
+  background-color: #333333;
+  border-top: 1px solid #444444;
+  margin-bottom: 10px;
+}
+
+/* Mensagens do usuário */
+.user-message {
+  background-color: #292929; /* Cor de fundo mais escura */
+  padding: 15px; /* Mais espaço dentro da mensagem */
+  border-radius: 12px; /* Bordas mais suaves */
+  color: #fff; /* Texto em branco para melhorar a leitura */
+  max-width: 70%;
+  margin-left: auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5); /* Sombra mais forte para destacar */
+  font-size: 1.1rem; /* Tamanho maior para facilitar a leitura */
+  line-height: 1.5; /* Melhorar o espaçamento das linhas de texto */
+  margin-bottom: 12px; /* Adicionando margem para separar as mensagens */
+}
+
+/* Mensagens do agente */
+.agent-message {
+  background-color: #444444; /* Cor de fundo mais clara para o agente */
+  padding: 15px; /* Mais espaço dentro da mensagem */
+  border-radius: 12px; /* Bordas mais suaves */
+  color: #fff; /* Texto em branco para melhorar a leitura */
+  max-width: 70%;
+  margin-right: auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5); /* Sombra mais forte para destacar */
+  font-size: 1.1rem; /* Tamanho maior para facilitar a leitura */
+  line-height: 1.5; /* Melhorar o espaçamento das linhas de texto */
+  margin-bottom: 12px; /* Adicionando margem para separar as mensagens */
+}
+
+/* Ajustes no nome do autor da mensagem */
+.message-author {
+  font-weight: bold;
+  color: #00ff9d; /* Cor mais vibrante para destacar o nome do autor */
+  font-size: 1.2rem; /* Aumentar o tamanho da fonte */
+  margin-bottom: 5px; /* Margem inferior para separar do texto */
+}
+
+/* "Digitando..." */
+.agent-message div {
+  font-style: italic;
+  color: #bbb;
+  font-size: 1rem;
+}
+
+/* Melhorias na caixa de entrada */
+.input-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  background-color: #292929;
+  border-top: 1px solid #444444;
+  position: sticky;
+  bottom: 0;
+}
+
+/* Ajustes na caixa de digitação */
+.input {
+  width: 85%;
+  padding: 12px 15px;
+  border-radius: 30px;
+  border: none;
+  outline: none;
+  background-color: #444444;
+  color: #fff;
+  font-size: 1rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease-in-out;
+}
+
+.input:focus {
+  background-color: #555555;
+  box-shadow: 0 0 12px rgba(0, 255, 157, 0.5);
+}
+
+.button {
+  background-color: #00ff9d;
+  border: none;
+  cursor: pointer;
+  width: 60px; /* Tamanho fixo para o botão */
+  height: 60px; /* Altura fixada para manter o botão redondo */
+  border-radius: 60%; /* Garantir que o botão seja redondo */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.button:hover {
+  background-color: #00e88d;
+  transform: scale(1.1);
+}
+
+.button i {
+  color: #fff;
+  font-size: 1.5rem; /* Ajuste do tamanho do ícone para se ajustar bem dentro do botão */
+}
+
+/* Estilo responsivo para telas pequenas */
+@media (max-width: 768px) {
+  .chat-container {
+    width: 100vw; /* No mobile, ocupa 100% da largura da tela */
+    max-width: 100vw; /* Remove o limite de 600px no mobile */
+    margin: 0;  /* Retira a margem */
+  }
+
+  .input {
+    width: 80%;  /* Ajuste da largura do campo de digitação no mobile */
+  }
+
+  .button {
+    padding: 10px;  /* Ajuste no tamanho do botão no mobile */
+  }
+
+  .chat-title {
+    font-size: 1.6rem;  /* Ajuste no tamanho do título */
+  }
+}

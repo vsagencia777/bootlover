@@ -1,0 +1,68 @@
+.roleta2d-container {
+  text-align: center;
+  padding: 20px;
+  background: linear-gradient(135deg, #1e1e1e, #3a3a3a);
+
+  h2 {
+    font-size: 2rem;
+    color: #ffd700;
+    font-weight: bold;
+  }
+
+  .roleta-wrapper {
+    position: relative;
+    width: 350px;
+    height: 350px;
+    margin: 20px auto;
+    border: 12px solid #ffd700;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0px 0px 30px rgba(255, 215, 0, 0.9); /* Brilho mais intenso ao redor da borda */
+
+    .roleta-image {
+      width: 100%;
+      height: 100%;
+      transform: rotate(0deg);
+      border-radius: 50%;
+      background: radial-gradient(circle at 50% 50%, #333333, #000000); /* Gradiente interno */
+      box-shadow: inset 0px 0px 10px #222; /* Sombra interna suave */
+    }
+
+    .ponteiro {
+      position: absolute;
+      width: 0;
+      height: 0;
+      border-left: 15px solid transparent;
+      border-right: 15px solid transparent;
+      border-top: 30px solid #ffd700; /* Agora aponta para baixo */
+      top: -15px; /* Mantém o ponteiro no topo da roleta */
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 10;
+      filter: drop-shadow(0px 0px 10px #ffd700); /* Brilho no ponteiro */
+    }
+  }
+
+  button {
+    background: linear-gradient(135deg, #ffd700, #ffcc00); /* Botão dourado com gradiente */
+    color: #000;
+    padding: 10px 20px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+
+    &:hover {
+      background: #ffcc00;
+      box-shadow: 0px 0px 15px #ffd700;
+    }
+  }
+
+  .resultado {
+    margin-top: 20px;
+    font-size: 1.5rem;
+    color: #00ffcc;
+  }
+}
