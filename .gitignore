@@ -8,8 +8,6 @@
 
 # Ignorar pastas específicas do projeto que são temporárias ou específicas de ambiente
 bootlover-postgres/
-bootlover-backend/
-bootlover-frontend/
 
 # Ignorar arquivos de histórico e configurações de terminal
 .bash_history
@@ -24,3 +22,7 @@ Test.js
 
 # Ignorar arquivos binários ou temporários
 *.png
+
+# Incluir pastas de frontend e backend no repositório
+!bootlover-backend/
+!bootlover-frontend/
