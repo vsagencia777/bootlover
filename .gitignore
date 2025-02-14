@@ -6,23 +6,25 @@
 .ssh/
 .snap/
 
-# Ignorar pastas específicas do projeto que são temporárias ou específicas de ambiente
-bootlover-postgres/
-
 # Ignorar arquivos de histórico e configurações de terminal
 .bash_history
 .bashrc
+.profile
+.git-credentials
+.gitconfig
+.lesshst
 
 # Ignorar arquivos de configuração do PM2 ou similares
 ecosystem.config.js
 
 # Ignorar arquivos de ambiente
 .env
-Test.js
+envTest.js
 
 # Ignorar arquivos binários ou temporários
 *.png
+*.log
 
-# Incluir pastas de frontend e backend no repositório
+# Incluir explicitamente as pastas do projeto
 !bootlover-backend/
 !bootlover-frontend/
